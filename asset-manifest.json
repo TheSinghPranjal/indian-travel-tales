@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/indian-travel-tales/static/css/main.db33f84f.css",
+    "main.js": "/indian-travel-tales/static/js/main.7fce894d.js",
+    "static/js/453.48c69165.chunk.js": "/indian-travel-tales/static/js/453.48c69165.chunk.js",
+    "static/media/HelveticaNeueLight.otf": "/indian-travel-tales/static/media/HelveticaNeueLight.a7c3c98319c1341d5aa5.otf",
+    "static/media/HelveticaNeueMedium.otf": "/indian-travel-tales/static/media/HelveticaNeueMedium.38884ffafe8888205009.otf",
+    "static/media/TheaAmelia.otf": "/indian-travel-tales/static/media/TheaAmelia.62323351d647140d1a4a.otf",
+    "index.html": "/indian-travel-tales/index.html",
+    "main.db33f84f.css.map": "/indian-travel-tales/static/css/main.db33f84f.css.map",
+    "main.7fce894d.js.map": "/indian-travel-tales/static/js/main.7fce894d.js.map",
+    "453.48c69165.chunk.js.map": "/indian-travel-tales/static/js/453.48c69165.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db33f84f.css",
+    "static/js/main.7fce894d.js"
+  ]
+}
