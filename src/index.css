@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "HelveticaNeueLight";
+  src: local("HelveticaNeueLight"),
+   url("./fonts/HelveticaNeueLight/HelveticaNeueLight.otf") format("truetype");
+  font-weight: bold;
+ }
+
+ @font-face {
+  font-family: "HelveticaNeueMedium";
+  src: local("HelveticaNeueMedium"),
+   url("./fonts/HelveticaNeueMedium/HelveticaNeueMedium.otf") format("truetype");
+  font-weight: bold;
+ }
+ 
+ @font-face {
+  font-family: "TheaAmelia";
+  src: local("TheaAmelia"),
+   url("./fonts/TheaAmelia/TheaAmelia.otf") format("truetype");
+  font-weight: bold;
+ }
+ 
